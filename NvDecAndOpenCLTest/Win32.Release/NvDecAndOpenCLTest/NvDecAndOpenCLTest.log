@@ -1,0 +1,7 @@
+﻿  NvDecAndOpenCLTest.cpp
+  Generating code
+  110 of 401 functions (27.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    57 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  NvDecAndOpenCLTest.vcxproj -> C:\open\gitrepo\third_party\nvenc\Video_Codec_SDK_9.1.23\Samples\NvDecAndOpenCLTest\Win32.Release\NvDecAndOpenCLTest.exe
